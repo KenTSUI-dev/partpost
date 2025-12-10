@@ -1,0 +1,92 @@
+[
+  {
+    "input_nc": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/20250922/marine-refuse_trk.nc",
+    "output_path": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/partpost_output/20250922/particles_hourly.shp",
+    "mode": "point",
+    "downscale_hour": 1.0
+  },
+  {
+    "input_nc": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/20250922/marine-refuse_trk.nc",
+    "output_path": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/partpost_output/20250922/particles_hourly.kml",
+    "mode": "point",
+    "downscale_hour": 1.0
+  },
+  {
+    "input_nc": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/20250922/marine-refuse_trk.nc",
+    "output_path": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/partpost_output/20250922/particles_hourly.gml",
+    "mode": "point",
+    "downscale_hour": 1.0
+  },
+  {
+    "input_nc": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/20250922/marine-refuse_trk.nc",
+    "output_path": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/partpost_output/20250922/particles_hourly.gpkg",
+    "mode": "point",
+    "downscale_hour": 1.0
+  },
+  {
+    "input_nc": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/20250922/marine-refuse_trk.nc",
+    "output_path": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/partpost_output/20250922/particles_hourly.geojson",
+    "mode": "point",
+    "downscale_hour": 1.0
+  },
+  {
+    "input_nc": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/20250922/marine-refuse_trk.nc",
+    "output_path": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/partpost_output/20250922/particles_hourly.xlsx",
+    "mode": "point",
+    "downscale_hour": 1.0
+  },
+  {
+    "input_nc": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/20250922/marine-refuse_trk.nc",
+    "output_path": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/partpost_output/20250922/particles_half-hourly.shp",
+    "mode": "point",
+    "downscale_hour": 0.5
+  },
+  {
+    "input_nc": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/20250922/marine-refuse_trk.nc",
+    "output_path": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/partpost_output/20250922/tracks_hourly.gpkg",
+    "mode": "line",
+    "downscale_hour": 1.0
+  },
+  {
+    "input_nc": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/20250922/marine-refuse_trk.nc",
+    "output_path": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/partpost_output/20250922/tracks_hourly.geojson",
+    "mode": "line",
+    "downscale_hour": 1.0
+  },
+  {
+    "input_nc": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/20240405/marine-refuse_trk.nc",
+    "output_path": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/partpost_output/20240405/particles_hourly.shp",
+    "mode": "point",
+    "downscale_hour": 1.0
+  },
+  {
+    "input_nc": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/20240405/marine-refuse_trk.nc",
+    "output_path": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/partpost_output/20240405/particles_hourly.gpkg",
+    "mode": "point",
+    "downscale_hour": 1.0
+  },
+  {
+    "input_nc": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/20240405/marine-refuse_trk.nc",
+    "output_path": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/partpost_output/20240405/particles_hourly.geojson",
+    "mode": "point",
+    "downscale_hour": 1.0
+  },
+  {
+    "input_nc": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/20240405/marine-refuse_trk.nc",
+    "output_path": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/partpost_output/20240405/particles_half-hourly.shp",
+    "mode": "point",
+    "downscale_hour": 0.5
+  },
+  {
+    "input_nc": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/20240405/marine-refuse_trk.nc",
+    "output_path": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/partpost_output/20240405/tracks_hourly.gpkg",
+    "mode": "line",
+    "downscale_hour": 1.0
+  },
+  {
+    "input_nc": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/20240405/marine-refuse_trk.nc",
+    "output_path": "D:/temp/319_WQMD_WQMG_Marine_Refuse_Tracking/partpost_output/20240405/tracks_hourly.geojson",
+    "mode": "line",
+    "downscale_hour": 1.0
+  }
+]
